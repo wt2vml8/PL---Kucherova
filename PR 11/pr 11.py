@@ -31,7 +31,7 @@ def cal():
     messagebox.showinfo('Результат', f'Результат: {res}')
 
 nt.add(tab1, text='First')
-#ы чем разница pack и grid
+
 lbl=Label(tab1, text='Calculator')
 lbl.grid(column=2, row=0)
 
